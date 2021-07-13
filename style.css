@@ -1,0 +1,23 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+.flexible-container{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+}
+.color{
+    color: orange;
+}
+.pro{
+    width: 50%;
+}
+.link-btn{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato ) ;
+    color:white;
+    font-weight:700;
+    padding:5px 10px;
+    border-radius: 5px;
+}
